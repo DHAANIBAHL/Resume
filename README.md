@@ -1,18 +1,16 @@
-# [Dhaani Bahl] - Resume
+# Dhaani Bahl - Resume
 
 A dedicated ML enthusiast with a passion for data science. This repository hosts my current resume.
 
-*   **📄 [Download Resume (PDF)](./your_resume.pdf)**
-*   **👀 [View Readable Version](./resume.md)**
+*   **📄 [Download Resume (PDF)](./Dhaani%20Bahl.pdf)**
 
 ## 🛠️ Core Technologies
 
-**Languages:** Python, JavaScript, SQL
-**Frameworks:** React, Node.js, Django
-**Tools:** Git, Docker, AWS
+**Languages:** Python, Java, HTML, CSS, Bootstrap, JavaScript   
+**Frameworks:** Django  
+**Tools:** Qlik Sense, Git, MS Excel, Power BI, VS Code, Jupyter notebook 
 
 ## 📬 Get in Touch
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+- **Email:** [dhaanibahl1@gmail.com](mailto:dhaanibahl1@gmail.com)
+- **LinkedIn:** [Dhaani Bahl](https://www.linkedin.com/in/dhaani-bahl-15923024b/)
