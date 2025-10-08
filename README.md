@@ -2,7 +2,7 @@
 
 A dedicated ML enthusiast with a passion for data science. This repository hosts my current resume.
 
-*   **📄 [Download Resume (PDF)](./Dhaani%20Bahl.pdf)**
+*   **📄 [Download Resume (PDF)](.https://github.com/DHAANIBAHL/Resume/blob/main/DHAANI_BAHL%28Off_Campus%29.pdf)**
 
 ## 🛠️ Core Technologies
 
